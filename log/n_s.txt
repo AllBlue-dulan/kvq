@@ -1,0 +1,23 @@
+               the best validation accuracy of the model-s is as follows:
+                SROCC: 0.6646
+                PLCC:  0.6522
+                KROCC: 0.4763
+                RMSE:  0.4818.
+
+                the best validation accuracy of the model-n is as follows:
+                SROCC: 0.1140
+                PLCC:  0.1285
+                KROCC: 0.0785
+                RMSE:  0.7627.
+
+                the best validation accuracy of the model-s is as follows:
+                SROCC: 0.8392
+                PLCC:  0.8396
+                KROCC: 0.6487
+                RMSE:  0.3444.
+
+                the best validation accuracy of the model-n is as follows:
+                SROCC: 0.3093
+                PLCC:  0.3402
+                KROCC: 0.2071
+                RMSE:  0.6985.
