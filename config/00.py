@@ -1,0 +1,1 @@
+print("anno_file: D:/code/KVQ-Challenge-CVPR-NTIRE2024/KVQ/train/train_data.csv")
