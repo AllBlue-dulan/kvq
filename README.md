@@ -12,7 +12,7 @@ conda activate KVQ
 Our codes are compatible with pytorch 2.1.1, you may try newer version.
 
 ### Prepare training dataset
-Download KVQ dataset from codalab competition [this link] (https://codalab.lisn.upsaclay.fr/)
+Download KVQ dataset from codalab competition [this link](https://codalab.lisn.upsaclay.fr/)
 Please add the path of KVQ and annotation to the items of "data_prefix" and "anno_file" in the config file (i.e. /config/kwai_simpleVQA.yml)
 
 ### prepare Slowfast feature 
