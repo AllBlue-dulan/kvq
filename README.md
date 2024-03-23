@@ -24,7 +24,7 @@ Please add the path of Slowfast feature to the items of "data_prefix_3D"  in the
 ### prepare pretrained-weights
 ```bash
 mkdir pretrained_weights
-```bash
+```
 Download the .pth at [this link](https://github.com/SwinTransformer/storage/releases/tag/v1.0.4), and put this .pth in the pretrained_weights
 
 ### Train 
